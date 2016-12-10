@@ -1,0 +1,31 @@
+body{
+    background-color: #ffffff;
+}
+.h4{color: #757575;}
+#header{
+    background-color: #2176f3;
+    color:#ffffff;
+    text-align: center;
+    padding: 10px;
+}
+#nav{
+    line-height: 30px;
+    background-color: #bbdefb;
+    width: 100px;
+    height: 200px;
+    float:left;
+    padding: 100px;
+}
+#section{
+    width: 350px;
+    float:left;
+    padding: 10px;
+
+}
+#footer{
+    background-color: #ff9800;
+    color:#ffffff;
+    clear: both;
+    text-align: center;
+    padding: 50px;
+}
